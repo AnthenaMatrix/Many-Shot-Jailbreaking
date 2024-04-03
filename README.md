@@ -45,7 +45,7 @@ The Prompt Injection Testing Tool is provided for educational and research purpo
 This project is licensed under the MIT License.
 
 
-# Support AnthenaMatrix
+## Support AnthenaMatrix
 Bitcoin: bc1qxvvtgz0vf3n2cuxt0suvf39jleegpt9wawxazn
 
 Ethereum: 0xE73E90779B3e8F6D65306B40E02878f437408b4E
